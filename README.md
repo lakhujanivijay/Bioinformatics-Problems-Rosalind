@@ -1,6 +1,6 @@
 # Bioinformatics-Scripts
 
-A short overlap graph - overlap graphs are used in denovo assembly
+A short script to cite an example of overlap graphs. Overlap graphs are used in denovo assembly. See below link:
 http://bioinformatics.oxfordjournals.org/content/early/2014/06/19/bioinformatics.btu395
 
 Problem
@@ -15,5 +15,5 @@ Given: A collection of DNA strings in FASTA format having total length at most 1
 
 Return: The adjacency list corresponding to O3O3. You may return edges in any order.
 
-				Solution:
-				I have used Biopython parser to parse multifasta. The logic is quite simple, take a sequence, take it's suffix (3 mer) and compare it with prefix(3 mer) of another sequence (Checkpoint -This pair to check should be different). Then, if found a match, fetch the IDs. Voila!!
+Solution:
+I have used Biopython parser to parse multifasta. The logic is quite simple, take a sequence, take it's suffix (3 mer) and compare it with prefix(3 mer) of another sequence (Checkpoint -This pair to check should be different). Then, if found a match, fetch the IDs. 
