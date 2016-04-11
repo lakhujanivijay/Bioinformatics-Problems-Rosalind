@@ -4,3 +4,6 @@ of repeated characters by techniques such as move-to-front transform and run-len
 More importantly, the transformation is reversible, without needing to store any additional data. 
 
 The BWT is thus a "free" method of improving the efficiency of text compression algorithms, costing only some extra computation.
+
+More information here:
+http://tcs.rwth-aachen.de/lehre/Komprimierung/SS2012/ausarbeitungen/Burrows-Wheeler.pdf
