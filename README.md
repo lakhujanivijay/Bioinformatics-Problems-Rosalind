@@ -1,4 +1,3 @@
-# Bioinformatics-Scripts
 
 A short script to cite an example of overlap graphs. Overlap graphs are used in denovo assembly. See below link:
 http://bioinformatics.oxfordjournals.org/content/early/2014/06/19/bioinformatics.btu395
