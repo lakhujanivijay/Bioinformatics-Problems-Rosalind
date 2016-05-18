@@ -15,3 +15,4 @@ Source: http://biology.stackexchange.com/questions/34122/an-example-for-n50-why-
 About this script:
 
 This script takes the stats.txt file (coming out from velvet denovo assembler) as input and calculated N50 value.
+
