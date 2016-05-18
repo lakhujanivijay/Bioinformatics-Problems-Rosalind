@@ -6,13 +6,13 @@ Mathematically:
 
 In simple words:
 
-    scaffold N50 is the median contig size of your genomic assembly. It's a metric that you can use to evaluate the quality of your assembly, since an overly small N50 suggests that you were unable to generate many contigs of biologically meaningful size (i.e. you probably have a lot of bogus little contigs in your assembly). You can increase your N50 by eliminating sequences which are bound to cause you problems, e.g. short repetitive stretches.
+scaffold N50 is the median contig size of your genomic assembly. It's a metric that you can use to evaluate the quality of your assembly, since an overly small N50 suggests that you were unable to generate many contigs of biologically meaningful size (i.e. you probably have a lot of bogus little contigs in your assembly). You can increase your N50 by eliminating sequences which are bound to cause you problems, e.g. short repetitive stretches.
 
-    note that this metric only applies when doing de novo assembly. If you are aligning to a reference (i.e. for variant discovery applications) this metric doesn't apply
+note that this metric only applies when doing de novo assembly. If you are aligning to a reference (i.e. for variant discovery applications) this metric doesn't apply
 
 Source: http://biology.stackexchange.com/questions/34122/an-example-for-n50-why-do-we-need-it
 
 About this script:
 
-This script takes the stats.txt file (coming out from velvet denovo assembler) as input and calculated N50 value.
+This script takes the stats.txt file (coming out from velvet denovo assembler) as input and calculates N50 value.
 
