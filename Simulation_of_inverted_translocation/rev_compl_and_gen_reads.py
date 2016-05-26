@@ -1,3 +1,10 @@
+#!/usr/bin/python2.7
+__author__ = "Vijay Lakhujani"
+__credits__ = ["Vijay Lakhujani"]
+__version__ = "1.0"
+__email__ = "lakhjanivijay@gmail.com"
+__status__ = "done"
+
 file= open("test.tsv")
 
 for seq in file:
