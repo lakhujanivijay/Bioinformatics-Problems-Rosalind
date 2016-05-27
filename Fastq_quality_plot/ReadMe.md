@@ -16,4 +16,4 @@ Read:56------------------------------------36
 Read:60----------------------------------34
 
 This helps in assesing the average quality score for each read visually.
-The length of character string "_" represents the average qual score i.e if read quality is 36, the string will have 36 "_" characters.
+The length of character string _ _ _ _(dashes)represents the average qual score i.e if read quality is 36, the string will have 36 _ (dash) characters.
