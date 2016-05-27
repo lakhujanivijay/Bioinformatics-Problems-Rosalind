@@ -1,6 +1,6 @@
 
 try:
-    file =open("XGC-541-A285_HNHLKCCXX_L5_1.fq")
+    file =open("test.fq")
     out=open("out.txt", 'w')
     
 except IOError:
