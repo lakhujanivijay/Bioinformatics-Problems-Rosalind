@@ -22,6 +22,6 @@ N_half=sum(lengths)/2
 for i in range(0, len(lengths)):
     sums=sums+lengths[i]
     if sums >= N_half:
-        print "N_50:",lengths[i-1]
+        print "N_50:",lengths[i]
         break
         
