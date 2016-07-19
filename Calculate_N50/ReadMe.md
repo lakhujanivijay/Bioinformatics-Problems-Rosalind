@@ -14,5 +14,6 @@ Source: http://biology.stackexchange.com/questions/34122/an-example-for-n50-why-
 
 About this script:
 
-This script takes the stats.txt file (coming out from velvet denovo assembler) as input and calculates N50 value.
+N50.py : This script takes the stats.txt file (coming out from velvet denovo assembler) as input and calculates N50 value.
+calc_n50_from_assembly_fasta.py : This script takes a multifasta file (assembly file having scaffolds) and calculate N50 value.
 
