@@ -6,6 +6,9 @@ This file contains the description of all the scripts present in this folder:
 This simple script takes a fasta file and gives out a tab separated text file with column1 having fasta ID and column 2 having sequence length.
 
 
+
+
+
 *GC_percent.py*
 ================
 The GC-content of a DNA string is given by the percentage of symbols in the string that are 'C' or 'G'. For example, the GC-content of "AGCTATAG" is 37.5%. Note that the reverse complement of any DNA string has the same GC-content.
@@ -34,6 +37,11 @@ Sample Output
 
 Rosalind_0808
 60.919540
+
+
+
+
+
 
 
 *GC_Count.pl*
