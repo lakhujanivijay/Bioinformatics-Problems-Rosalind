@@ -1,5 +1,10 @@
 This file contains the description of all the scripts present in this folder:
 
+*Multi_fasta_seq_length.py*
+============================
+
+This simmple script takes a fasta file and gives out a tab separated text file with column1 having fasta ID and column 2 having sequence length.
+
 
 *GC_percent.py*
 ================
