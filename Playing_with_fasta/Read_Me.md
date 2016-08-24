@@ -29,3 +29,8 @@ Sample Output
 
 Rosalind_0808
 60.919540
+
+
+*GC_Count.pl*
+=============
+This script reads through a fasta file and spits out the GC count;very simple day-to-day task. 
