@@ -8,7 +8,7 @@ Return: The Hamming distance dH(s,t)
 
 Sample Dataset
 
-GAGCCTACTAACGGGAT
+GAGCCTACTAACGGGAT & 
 CATCGTAATGACGGCCT
 
 Sample Output
