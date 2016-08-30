@@ -15,5 +15,10 @@ Read:56------------------------------------36
 
 Read:60----------------------------------34
 
-This helps in assesing the average quality score for each read visually.
+This helps in assessing the average quality score for each read visually.
 The length of character string ----- (hyphens) represents the average qual score i.e if read quality is 36, the string will have 36 - (hyphen) characters.
+
+*About the scripts*
+
+plot.py : uses Biopython package for reading fastq and fetching qualities.
+plot_without_biopython_dependency.plot : This is the same implementation but without using Biopython package.
