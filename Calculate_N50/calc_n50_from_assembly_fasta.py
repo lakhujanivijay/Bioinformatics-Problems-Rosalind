@@ -1,10 +1,11 @@
-#!/usr/bin/python3
 
+#!/usr/bin/python3
 __author__ = "Vijay Lakhujani"
 __credits__ = ["Vijay Lakhujani"]
 __version__ = "1.0"
-__email__ = "lakhjanivijay@gmail.com"
+__email__ = "lakhujanivijay@gmail.com"
 __status__ = "done"
+
 
 from Bio import SeqIO
 import getopt, sys, re
