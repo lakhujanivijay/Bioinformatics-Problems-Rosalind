@@ -7,3 +7,7 @@ The BWT is thus a "free" method of improving the efficiency of text compression 
 
 More information here:
 http://tcs.rwth-aachen.de/lehre/Komprimierung/SS2012/ausarbeitungen/Burrows-Wheeler.pdf
+
+*About the script*
+
+This script takes a string and spits out burrows wheeler transformed string.
