@@ -1,6 +1,14 @@
+
+#!/usr/bin/python3
+__author__ = "Vijay Lakhujani"
+__credits__ = ["Vijay Lakhujani"]
+__version__ = "1.0"
+__email__ = "lakhujanivijay@gmail.com"
+__status__ = "done"
+
 import re
-file= open('50_S1_L001_R1_001.fastq')
-fasta = open('result_fasta.fasta', 'w')
+file= open('test.fastq')
+fasta = open('test.fasta', 'w')
 seq_count=0
 for line in file:
     sequence=re.search('[ATCG]+\n', line)  
