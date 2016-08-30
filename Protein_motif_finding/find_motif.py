@@ -1,6 +1,8 @@
+#!/usr/bin/python3
 __author__="Vijay Lakhujani"
 __date__="23/07/2016"
 __email__="lakhujanivijay@gmail.com"
+__status__ = "done"
 
 import urllib2, re
 ids=open("ids.txt")
