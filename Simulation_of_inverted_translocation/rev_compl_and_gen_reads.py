@@ -128,19 +128,3 @@ random_sequence_file.close()
     
     
 print "\n\nFiles written in the same folder: check final_sequence.txt and random_sequences.txt ... !!\n\n"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
