@@ -10,7 +10,7 @@ http://genome.jgi.doe.gov/help/scaffolds.html
 
 The script reads a scaffold file (could be from CLC gw or any assembler) and generates a contig file by splitting the sequences by 'n' or 'N'.
 
-Input:
+**Input:**
 
 `>scaffold1`
 
@@ -20,7 +20,7 @@ ACTGTGCATNNNNNNACGCTGCANnnNNCTGCAnnnCTGCAnnNNNNCTGCA
 
 ACGACGACGCGATAGAGnnnnnnAGACGAGAGNNNnnACGACGACG
 
-Output:
+**Output:**
 
 `>contig_1`
 
