@@ -5,9 +5,11 @@ Gaps occur where reads from the two sequenced ends of at least one fragment over
 
 #Courtesy:
 http://genome.jgi.doe.gov/help/scaffolds.html
-About the script:
+
+**About the script:**
 
 The script reads a scaffold file (could be from CLC gw or any assembler) and generates a contig file by splitting the sequences by 'n' or 'N'.
+
 Input:
 
 `>scaffold1`
