@@ -1,6 +1,6 @@
 ## What is N50 ?
 
-Contig or scaffold `N50` is a weighted median statistic such that 50% of the entire assembly is contained in contigs or scaffolds equal to or larger than this value.
+Contig or scaffold `N50` is a weighted median statistic such that `50%` of the entire assembly is contained in contigs or scaffolds equal to or larger than this value.
 
 ## Mathematically:
 
