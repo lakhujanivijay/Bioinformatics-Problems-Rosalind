@@ -1,4 +1,4 @@
-### What is Burrows Wheeler transform
+### What is Burrows Wheeler transform ?
 
 The Burrows–Wheeler transform (BWT, also called block-sorting compression) rearranges a character string into runs
 of similar characters. This is useful for compression, since it tends to be easy to compress a string that has runs 
