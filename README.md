@@ -4,7 +4,7 @@
 <h3><strong>Howdy!</strong></h3>
 
 <ul>
-	<li>I am a bioinformatician with deep interest in Genomics, specially in next generation sequencing techniques (NGS). I enjoy programming and I usually code in <code>Python</code>, <code>PERL</code>, <code>R</code> and <code>BASH</code>. Programming is so much fun!<span style="background-color:Yellow"> </span></li>
+	<li>My name is Vijay Lakhujani and I am a bioinformatician with deep interest in Genomics, specially in next generation sequencing techniques (NGS). I enjoy programming and I usually code in <code>Python</code>, <code>PERL</code>, <code>R</code> and <code>BASH</code>. Programming is so much fun!<span style="background-color:Yellow"> </span></li>
 	<li>I also try to learn technical stuff with the help of MOOCs. I believe the best way to keep yourself updated is to keep learning. I also write sometimes on technical and non technical stuff. You can check out some of my articles on <a href="https://www.linkedin.com/in/lakhujanivijay/detail/recent-activity/posts/">LinkedIn</a>.</li>
 	<li>I love making new friends and discussing ideas. Do not hesitate to drop me an email if I could be of some help :)</li>
 </ul>
