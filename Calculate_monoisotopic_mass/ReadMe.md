@@ -1,5 +1,5 @@
-### The problem below is derived from ![Rosalind](http://rosalind.info/static/img/logo.png?v=1526042457 "Rosalind")
-
+### The problem below is derived from [![Rosalind](http://rosalind.info/static/img/logo.png?v=1526042457 "Rosalind")](http://rosalind.info/problems/list-view/)
+    
 ### Problem Definition
 
 In a weighted alphabet, every symbol is assigned a positive real number called a weight. A string formed from a weighted alphabet is called a weighted string, and its weight is equal to the sum of the weights of its symbols.
