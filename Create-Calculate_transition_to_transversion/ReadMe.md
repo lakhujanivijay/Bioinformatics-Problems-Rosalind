@@ -3,7 +3,7 @@
 
 ### Transition versus Transversion mutations
 
-DNA substitution mutations are of two types. Transitions are interchanges of two-ring purines (A G) or of one-ring pyrimidines (C T): they therefore involve bases of similar shape. Transversions are interchanges of purine for pyrimidine bases, which therefore involve exchange of one-ring and two-ring structures.
+DNA substitution mutations are of two types. *Transitions* are interchanges of two-ring purines (`A G`) or of one-ring pyrimidines (`C T`): they therefore involve bases of similar shape. *Transversions* are interchanges of purine for pyrimidine bases, which therefore involve exchange of one-ring and two-ring structures.
 
 Although there are twice as many possible transversions, because of the molecular mechanisms by which they are generated, transition mutations are generated at higher frequency  than transversions. As well, transitions are less likely to result in amino acid substitutions (due to "wobble"), and are therefore more likely to persist as "silent substitutions" in populations as single nucleotide polymorphisms (SNPs).
     
