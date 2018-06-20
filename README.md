@@ -6,7 +6,7 @@ My name is Vijay Lakhujani and I am a bioinformatician with deep interest in Gen
 
 I also try to learn technical stuff with the help of MOOCs. I believe the best way to keep yourself updated is to keep learning. I also write sometimes on technical and non technical stuff. You can check out some of my articles on <a href="https://www.linkedin.com/in/lakhujanivijay/detail/recent-activity/posts/">LinkedIn</a>.</li>
 
-I love making new friends and discussing ideas. 
+I love making new friends and discussing ideas. I am also a [moderator](https://www.biostars.org/u/edit/26377/) at biostars.org which is a huge and popular bioinformatics Q & A forum.
 
 ### Let's connect !
 
