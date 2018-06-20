@@ -1,8 +1,4 @@
-### The problem below is derived from 
-
-![Rosalind](http://rosalind.info/static/img/logo.png?v=1526042457 "Rosalind")
-Format: ![Alt Text](http://rosalind.info/problems/list-view/)
-
+### The problem below is derived from ![Rosalind](http://rosalind.info/static/img/logo.png?v=1526042457 "Rosalind")
 
 ### Problem Definition
 
