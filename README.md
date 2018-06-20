@@ -2,11 +2,11 @@
 
 # Howdy!
 
-My name is Vijay Lakhujani and I am a bioinformatician with deep interest in Genomics, specially in next generation sequencing techniques (NGS). I enjoy [programming](http://rosalind.info/users/lakhujanivijay2/) and I usually code in <code>Python</code>, <code>PERL</code>, <code>R</code> and <code>BASH</code>. Programming is so much fun!
+My name is **Vijay Lakhujani** and I am a bioinformatician with deep interest in Genomics, specially in next generation sequencing techniques (NGS). I enjoy [programming](http://rosalind.info/users/lakhujanivijay2/) and I usually code in <code>Python</code>, <code>PERL</code>, <code>R</code> and <code>BASH</code>. Programming is so much fun!
 
 I also try to learn technical stuff with the help of MOOCs. I believe the best way to keep yourself updated is to keep learning. I also write sometimes on technical and non technical stuff. You can check out some of my articles on <a href="https://www.linkedin.com/in/lakhujanivijay/detail/recent-activity/posts/">LinkedIn</a>.</li>
 
-I am also a [moderator](https://www.biostars.org/u/edit/26377/) at [biostars.org](https://www.biostars.org) which is a huge and popular bioinformatics Q & A forum. Additionally, I am a [curator](https://omictools.com/community) for [omicstools.com.](https://omictools.com) which is a database pf wide range of resources in multi-omics fields and provide powerful filters to help instantly spot the key features.
+I am also a [moderator](https://www.biostars.org/u/edit/26377/) at [biostars.org](https://www.biostars.org) which is a huge and popular bioinformatics Q & A forum. Additionally, I am a [curator](https://omictools.com/community) for [omicstools.com](https://omictools.com) which is a database pf wide range of resources in multi-omics fields and provide powerful filters to help instantly spot the key features.
 
 I love making new friends and discussing ideas.
 ### Let's connect !
