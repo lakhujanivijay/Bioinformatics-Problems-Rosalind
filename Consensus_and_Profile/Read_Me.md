@@ -10,7 +10,7 @@ A matrix is a rectangular table of values divided into rows and columns. An `m×
 
 A consensus string `c` is a string of length n formed from our collection by taking the most common symbol at each position; the j<sup>th</sup> symbol of `c` therefore corresponds to the symbol having the maximum value in the j<sup>th</sup> column of the profile matrix. Of course, there may be more than one most common symbol, leading to multiple possible consensus strings.
 
-DNA Strings
+### DNA Strings
 ```
 	A T C C A G C T
 	G G G C A A C T
@@ -21,7 +21,7 @@ DNA Strings
 	A T G G C A C T
 ```
 
-Profile
+### Profile
 ```
   	A   5 1 0 0 5 5 0 0
 	C   0 0 1 4 2 0 6 1
@@ -29,7 +29,7 @@ Profile
 	T   1 5 0 0 0 1 1 6
 ```
 
-Consensus
+### Consensus
 ```
 A T G C A A C T
 ```
