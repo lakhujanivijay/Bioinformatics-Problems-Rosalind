@@ -16,7 +16,7 @@ Note that this metric only applies when doing de novo assembly. If you are align
 
 ### About this script
 
-`N50.py` : This script takes the `stats.txt` file (coming out from velvet denovo assembler) as input and calculates `N50` value.
+`N50.py` : This script takes the `stats.txt` file (coming out from [velvet](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2952100/) denovo assembler) as input and calculates `N50` value.
 
 `calc_n50_from_assembly_fasta.py` : This script takes a multifasta file (assembly file having scaffolds) and calculate `N50` value.
 
