@@ -4,7 +4,7 @@
 
 A matrix is a rectangular table of values divided into rows and columns. An `m×n` matrix has `m` rows and `n` columns. Given a matrix `A`, we write A<sub>i,j</sub> to indicate the value found at the intersection of row `i` and column `j`
 
-- Say that we have a collection of DNA strings, all having the same length n
+- Say that we have a collection of DNA strings, all having the same length `n`
 - Their profile matrix is a `4×n` matrix `P` in which P<sub>1,j</sub> represents the number of times that '`A`' occurs in the j<sup>th</sup> position of one of the strings, P<sub>2,j</sub> represents the number of times that `C` occurs in the j
 <sup>th</sup> position, and so on (see below).
 
