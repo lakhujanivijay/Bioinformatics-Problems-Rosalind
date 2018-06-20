@@ -9,7 +9,7 @@ We say that position `i` in k-mers `p1 … pk and q1 … qk` is a mismatch if `p
 
 #### Hamming Distance Problem
 
-Compute the Hamming distance between two DNA strings.
+_Compute the Hamming distance between two DNA strings._
 
 Given: Two DNA strings.
 
