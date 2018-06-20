@@ -1,4 +1,4 @@
-<h3><strong>Bioinformatician &diams; Programmer&diams; Learner</strong></h3>
+<h3><strong>Bioinformatician &diams; Programmer &diams; Learner</strong></h3>
 
 <hr />
 <h3><strong>Howdy!</strong></h3>
