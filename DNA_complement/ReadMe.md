@@ -1,6 +1,6 @@
 #### The problem below is taken from [![Rosalind](http://rosalind.info/static/img/logo.png?v=1526042457 "Rosalind")](http://rosalind.info/problems/list-view/)
 
-###Problem Definition
+### Problem Definition
 
 In DNA strings, symbols `A` and `T` are complements of each other, as are `C` and `G`.
 
