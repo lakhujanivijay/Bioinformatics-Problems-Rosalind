@@ -13,4 +13,4 @@ Also, generate `100` reads of length `150` from the modified sequence `S'` start
 
 #### Solution
 
-Click (here)(https://github.com/lakhujanivijay/Bioinformatics-Scripts/blob/master/Simulation_of_inverted_translocation/rev_compl_and_gen_reads.py)
+Click [here](https://github.com/lakhujanivijay/Bioinformatics-Scripts/blob/master/Simulation_of_inverted_translocation/rev_compl_and_gen_reads.py)
