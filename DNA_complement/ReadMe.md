@@ -1,17 +1,19 @@
-*Problem*
+#### The problem below is taken from [![Rosalind](http://rosalind.info/static/img/logo.png?v=1526042457 "Rosalind")](http://rosalind.info/problems/list-view/)
 
-In DNA strings, symbols 'A' and 'T' are complements of each other, as are 'C' and 'G'.
+###Problem Definition
 
-The reverse complement of a DNA string s is the string sc formed by reversing the symbols of s, then taking the complement of each symbol (e.g., the reverse complement of "GTCA" is "TGAC").
+In DNA strings, symbols `A` and `T` are complements of each other, as are `C` and `G`.
 
-Given: A DNA string s of length at most 1000 bp.
+The reverse complement of a DNA string `s` is the string sc formed by reversing the symbols of `s`, then taking the complement of each symbol (e.g., the reverse complement of `GTCA` is `TGAC`).
 
-Return: The reverse complement sc of s
+Given: A DNA string s of length at most `1000` bp.
+
+Return: The reverse complement `sc` of `s`
 
 Sample Dataset
 
-AAAACCCGGT
+`AAAACCCGGT`
 
 Sample Output
 
-ACCGGGTTTT
+`ACCGGGTTTT`
