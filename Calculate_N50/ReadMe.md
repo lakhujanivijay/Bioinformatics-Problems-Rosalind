@@ -1,3 +1,5 @@
+## What is N50 ?
+
 Contig or scaffold `N50` is a weighted median statistic such that 50% of the entire assembly is contained in contigs or scaffolds equal to or larger than this value.
 
 ## Mathematically:
@@ -10,7 +12,7 @@ scaffold `N50` is the median contig size of your genomic assembly. It's a metric
 
 Note that this metric only applies when doing de novo assembly. If you are aligning to a reference (i.e. for variant discovery applications) this metric doesn't apply
 
-## Source: [StackExchange](http://biology.stackexchange.com/questions/34122/an-example-for-n50-why-do-we-need-it)
+> Source: [StackExchange](http://biology.stackexchange.com/questions/34122/an-example-for-n50-why-do-we-need-it)
 
 ## About this script:
 
