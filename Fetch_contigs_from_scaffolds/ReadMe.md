@@ -1,48 +1,40 @@
-A scaffold is a portion of the genome sequence reconstructed from end-sequenced whole-genome shotgun clones.
+
+
+A _**scaffold**_ is a portion of the genome sequence reconstructed from end-sequenced whole-genome shotgun clones.
 Scaffolds are composed of contigs and gaps. 
+
 A contig is a contiguous length of genomic sequence in which the order of bases is known to a high confidence level.
 Gaps occur where reads from the two sequenced ends of at least one fragment overlap with other reads in two different contigs (as long as the arrangement is otherwise consistent with the contigs being adjacent). Since the lengths of the fragments are roughly known, the number of bases between contigs can be estimated.
 
-#Courtesy:
-http://genome.jgi.doe.gov/help/scaffolds.html
+### Courtesy:
+[Joint Gneome Institute](http://genome.jgi.doe.gov/help/scaffolds.html)
 
-**About the script:**
+### About the script:
 
-The script reads a scaffold file (could be from CLC gw or any assembler) and generates a contig file by splitting the sequences by 'n' or 'N'.
+The script reads a scaffold file (could be from CLC genomics workbench or any assembler) and generates a contig file by splitting the sequences by `n` or `N`.
 
-**Input:**
+#### Input:
 
-`>scaffold1`
-
+```
+>scaffold1
 ACTGTGCATNNNNNNACGCTGCANnnNNCTGCAnnnCTGCAnnNNNNCTGCA
-
-`>scaffold2`
-
+>scaffold2
 ACGACGACGCGATAGAGnnnnnnAGACGAGAGNNNnnACGACGACG
+```
 
-**Output:**
+#### Output:
 
-`>contig_1`
-
+```
+>contig_1
 ACGCTGCA
-
-`>contig_2`
-
+>contig_2
 CTGCA
-
-`>contig_3`
-
+>contig_3
 CTGCA
-
-`>contig_4`
-
+>contig_4
 CTGCAACGACGACGCGATAGAG
-
-`>contig_5`
-
+>contig_5
 AGACGAGAG
-
-`>contig_6`
-
+>contig_6
 ACGACGACG
-
+```
