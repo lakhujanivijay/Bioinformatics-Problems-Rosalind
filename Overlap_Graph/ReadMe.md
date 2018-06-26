@@ -10,7 +10,7 @@ A directed graph (or digraph) is a graph containing directed edges, each of  whi
  
  Given: A collection of DNA strings in FASTA format having total length at most `10` kbp.
  
- Return: The adjacency list corresponding to O3.
+ Return: The adjacency list corresponding to O<sub>3</sub>.
  
  Sample Dataset
 
