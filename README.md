@@ -1,6 +1,8 @@
 ## Howdy!
 
-My name is **Vijay Lakhujani** and I am a bioinformatician with deep interest in Genomics, specially in next generation sequencing techniques (NGS). I enjoy [programming](http://rosalind.info/users/lakhujanivijay2/) and I usually code in <code>Python</code>, <code>PERL</code>, <code>R</code> and <code>BASH</code>. Programming is so much fun! Have a look at [my programming summary](https://sourcerer.io/lakhujanivijay).
+My name is **Vijay Lakhujani** and I am a bioinformatician with deep interest in Genomics, specially in next generation sequencing techniques (NGS). I enjoy [programming](http://rosalind.info/users/lakhujanivijay2/) and I usually code in <code>Python</code>, <code>PERL</code>, <code>R</code> and <code>BASH</code>. Programming is so much fun!
+
+[![sorcerer](https://sourcerer.io/icons/logo-sharing.svg "sorcerer")](https://sourcerer.io/lakhujanivijay) Click on this icon to have a look at my programming summary!
 
 I also try to learn technical stuff with the help of MOOCs. I believe the best way to keep yourself updated is to keep learning. I also write sometimes on technical and non technical stuff. You can check out some of my articles on <a href="https://www.linkedin.com/in/lakhujanivijay/detail/recent-activity/posts/">LinkedIn</a>.</li>
 
@@ -19,6 +21,6 @@ This repository consists of specific bioinformatics problems solved by writing s
 
 ----
 
-[![sorcerer](https://sourcerer.io/icons/logo-sharing.svg "sorcerer")](https://sourcerer.io/lakhujanivijay)
+
 
 
