@@ -18,4 +18,4 @@ I love making new friends and discussing ideas.
 This repository consists of specific bioinformatics problems solved by writing small scripts; majority of them in Python. The problems have been taken from open platforms like [Rosalind](http://rosalind.info/problems). Some of the scripts are solutions to my day-to-day challenges while working. 
 
 
-<a href="https://sourcerer.io/lakhujanivijay"><img src="https://avatars3.githubusercontent.com/u/9314053?v=4" height="50px" width="50px" alt=""/></a>
+<a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/Python-183%20commits-orange.svg" alt=""></a>
