@@ -2,9 +2,10 @@
 
 My name is **Vijay Lakhujani** and I am a bioinformatician with deep interest in Genomics, specially in next generation sequencing techniques (NGS). I enjoy [programming](http://rosalind.info/users/lakhujanivijay2/) and I usually code in <code>Python</code>, <code>PERL</code>, <code>R</code> and <code>BASH</code>. Programming is so much fun!
 
-<a href="https://sourcerer.io/lakhujanivijay"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="16px" alt="Sourcerer"></a> 
-
-Click on this icon to have a look at my programming summary!
+<a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/Python-183%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/Shell-44%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/Perl-36%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/R-28%20commits-orange.svg" alt=""></a>
 
 I also try to learn technical stuff with the help of MOOCs. I believe the best way to keep yourself updated is to keep learning. I also write sometimes on technical and non technical stuff. You can check out some of my articles on <a href="https://www.linkedin.com/in/lakhujanivijay/detail/recent-activity/posts/">LinkedIn</a>.</li>
 
@@ -22,7 +23,6 @@ I love making new friends and discussing ideas.
 This repository consists of specific bioinformatics problems solved by writing small scripts; majority of them in Python. The problems have been taken from open platforms like [Rosalind](http://rosalind.info/problems). Some of the scripts are solutions to my day-to-day challenges while working. 
 
 ----
-
 
 
 
