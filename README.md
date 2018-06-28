@@ -7,6 +7,8 @@ My name is **Vijay Lakhujani** and I am a bioinformatician with deep interest in
 <a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/Perl-36%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/R-28%20commits-orange.svg" alt=""></a>
 
+<a href="https://sourcerer.io/lakhujanivijay"><img src="https://avatars3.githubusercontent.com/u/9314053?v=4" height="50px" width="50px" alt=""/></a> Have a look at my programming stats!!
+
 I also try to learn technical stuff with the help of MOOCs. I believe the best way to keep yourself updated is to keep learning. I also write sometimes on technical and non technical stuff. You can check out some of my articles on <a href="https://www.linkedin.com/in/lakhujanivijay/detail/recent-activity/posts/">LinkedIn</a>.</li>
 
 I am also a [moderator](https://www.biostars.org/u/26377/) at [biostars.org](https://www.biostars.org) which is a huge and popular bioinformatics Q & A forum. Additionally, I am a [curator](https://omictools.com/community) for [omicstools.com](https://omictools.com) which is a database of wide range of resources in multi-omics fields and provide powerful filters to help instantly spot the key features.
