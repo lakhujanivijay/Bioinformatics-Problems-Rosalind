@@ -1,7 +1,4 @@
-A small python script to convert fastQ file to fasta
+A small python script to convert [fastQ](https://en.wikipedia.org/wiki/FASTQ_format) file to [fasta](https://en.wikipedia.org/wiki/FASTA_format)
 
-Help for file formats:
 
-https://en.wikipedia.org/wiki/FASTQ_format
 
-https://en.wikipedia.org/wiki/FASTA_format
