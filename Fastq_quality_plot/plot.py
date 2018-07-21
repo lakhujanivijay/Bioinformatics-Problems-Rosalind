@@ -5,45 +5,6 @@ __version__ = "1.0"
 __email__ = "lakhjanivijay@gmail.com"
 __status__ = "done"
 
-''' 
-    Running the script:
-    > python plot.py -i test.fastq -o plot.txt
-    
-    For USAGE:
-    > python plot.py -h
-
-    This scripts reads the phred score string from fastQ file (offset should be 33) and gives a text file as output. 
-    The output file looks something like this:
-    
-    Read:1--------------------20
-    Read:2----------------------22
-    Read:3-----------------------23
-    Read:4----------------------22
-    Read:5----------------------22
-    Read:6------------------------24
-    Read:7-----------------------------29
-    Read:8----------------------------28
-    Read:9-------------------------25
-    Read:10---------------------------27
-    Read:11----------------------------28
-    Read:12-----------------------------29
-    Read:13-----------------------------29
-    
-    Here each line has the read number followed by a string having "-" character
-    whose length corresponds to the average read quality followed by the average phred score.
-    
-    HOW DOES IT WORKS?
-    
-    1. script reads the fastq file.
-    2. fetch the phred score (base call quality for each base).
-    3. calculates the average quality for each read.
-    4. prints a string having hyphen character ("-") for each read whose length corresponds to the average quality of that read.
-    
-    say for read#10, the average phred score is 27, the output will be like:
-    Read:10---------------------------27 (Notice, there are 27 "-") charachters.
-
-'''
-
 
 from Bio import SeqIO
 import getopt, sys, re
