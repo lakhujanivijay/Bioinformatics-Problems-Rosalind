@@ -21,5 +21,5 @@ The length of character string `-----` (hyphens) represents the average qual sco
 
 ### About the scripts
 
-- `[plot.py](https://github.com/lakhujanivijay/Bioinformatics-Scripts/blob/master/Fastq_quality_plot/plot.py)` : uses Biopython package for reading fastq and fetching qualities.
+- [`plot.py`](https://github.com/lakhujanivijay/Bioinformatics-Scripts/blob/master/Fastq_quality_plot/plot.py) : uses Biopython package for reading fastq and fetching qualities.
 - `plot_without_biopython_dependency.plot` : This is the same implementation but without using Biopython package.
