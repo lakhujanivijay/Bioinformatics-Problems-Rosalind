@@ -24,3 +24,7 @@ head_2	5	7
 head_2	11	14
 head_3	0	2
 ```
+
+### Usage
+
+`python locate_gaps.py -i fasta_file.fa`
