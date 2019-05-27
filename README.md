@@ -1,4 +1,5 @@
-![Image](https://github.com/lakhujanivijay/Code-Bakery/blob/master/images/banner.gif)
+
+<img src="https://github.com/lakhujanivijay/Code-Bakery/blob/master/images/banner.gif" alt="Smiley face" height="190" width="853">
 
 ## Howdy!
 
