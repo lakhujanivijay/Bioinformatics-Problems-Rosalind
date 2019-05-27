@@ -1,3 +1,5 @@
+![Image](https://github.com/lakhujanivijay/Code-Bakery/blob/master/images/banner.gif)
+
 ## Howdy!
 
 My name is **Vijay Lakhujani** and I am a bioinformatician with deep interest in *Genomics*, specially in *next generation sequencing techniques* (NGS). I enjoy [programming](http://rosalind.info/users/lakhujanivijay2/) and I usually code in <a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/Python-183%20commits-orange.svg" alt=""></a>  <a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/Perl-36%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/R-28%20commits-orange.svg" alt=""></a> and <a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/Shell-44%20commits-orange.svg" alt=""></a>. 
