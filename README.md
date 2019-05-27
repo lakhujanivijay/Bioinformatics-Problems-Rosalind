@@ -15,7 +15,7 @@ I am also a [moderator](https://www.biostars.org/u/26377/) at [biostars.org](htt
 I love making new friends and discussing ideas.
 ### Let's connect !
 
-<p><a  /></a><a href="https://in.linkedin.com/in/lakhujanivijay"><img alt="" src="https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/LinkedIn.png?raw=true" /></a><a href="http://www.twitter.com/vijay_lakhujani"><img alt="" src="http://i.imgur.com/tXSoThF.png" /></a><a href="http://www.facebook.com/mylifepages"><img alt="" src="http://i.imgur.com/P3YfQoD.png" /></a><a href="https://github.com/lakhujanivijay"><img alt="" src="https://assets-cdn.github.com/favicon.ico" style="height:20px; width:20px" /></a>&nbsp;</p> 
+<p><a/></a><a href="https://in.linkedin.com/in/lakhujanivijay"><img alt="" src="https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/LinkedIn.png?raw=true" /></a><a href="http://www.twitter.com/vijay_lakhujani"><img alt="" src="http://i.imgur.com/tXSoThF.png" /></a><a href="http://www.facebook.com/mylifepages"><img alt="" src="http://i.imgur.com/P3YfQoD.png" /></a><a href="https://github.com/lakhujanivijay"><img alt="" src="https://assets-cdn.github.com/favicon.ico" style="height:20px; width:20px" /></a>&nbsp;</p> 
 
 ---------
 
