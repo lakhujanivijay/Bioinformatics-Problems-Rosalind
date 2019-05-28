@@ -1,3 +1,5 @@
+#### The problem below is taken from [![Rosalind](http://rosalind.info/static/img/logo.png?v=1526042457 "Rosalind")](http://rosalind.info/problems/list-view/)
+
 To allow for the presence of its varying forms, a protein motif is represented by a shorthand as follows: `[XY]` means "either `X` or `Y`" and `{X}` means "any amino acid except `X`." For example, the N-glycosylation motif is written as `N{P}[ST]{P}`.
 
 This scripts takes as input, a text file having UniProt protein accessions and fetches the corresponding amino acid sequence and then tried to
