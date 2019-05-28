@@ -7,16 +7,16 @@ find the N-glycosylation motif is written as `N{P}[ST]{P}`.
 
 **Return**: For each protein possessing the N-glycosylation motif, output its given access ID followed by a list of locations in the protein string where the motif can be found.
 
-```
-Sample Dataset
 
+Sample Dataset
+```
 A2Z669
 B5ZC00
 P07204_TRBM_HUMAN
 P20840_SAG1_YEAST
-
+```
 Sample Output
-
+```
 B5ZC00
 85 118 142 306 395
 P07204_TRBM_HUMAN
