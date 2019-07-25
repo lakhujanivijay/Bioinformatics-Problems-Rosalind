@@ -1,6 +1,10 @@
 <img src="https://github.com/lakhujanivijay/Code-Bakery/blob/master/images/banner.gif" height="190" width="853">
 
-## Howdy!
+## Howdy! I'm Vijay
+
+<p><strong>Bioinformatics&nbsp;💻 Programmer | Linux ❤ Lover | Constant ☕ Learner</strong></p>
+
+<p><strong>Me = ( &frac14;</strong> <em>Bioinformatician</em><strong> )</strong> <strong>+ ( &frac14; </strong><em>Programmer</em><strong> ) +&nbsp; ( &frac12; </strong><em>Biologist</em><strong> )</strong></p>
 
 My name is **Vijay Lakhujani** and I am a bioinformatician with deep interest in *Genomics*, specially in *next generation sequencing techniques* (NGS). I enjoy [programming](http://rosalind.info/users/lakhujanivijay2/) and I usually code in <a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/Python-183%20commits-orange.svg" alt=""></a>  <a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/Perl-36%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/R-28%20commits-orange.svg" alt=""></a> and <a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/Shell-44%20commits-orange.svg" alt=""></a>. 
 
@@ -17,7 +21,8 @@ I love making new friends and discussing ideas.
 
 #### **Personal Website** : http://vijaylakhujani.me
 
-<p><a href="https://in.linkedin.com/in/lakhujanivijay"><img alt="" src="https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/LinkedIn.png?raw=true" /></a><a href="http://www.twitter.com/vijay_lakhujani"><img alt="" src="http://i.imgur.com/tXSoThF.png" /></a><a href="http://www.facebook.com/mylifepages"><img alt="" src="http://i.imgur.com/P3YfQoD.png" /></a><a href="https://github.com/lakhujanivijay"><img alt="" src="https://assets-cdn.github.com/favicon.ico" style="height:20px; width:20px" /></a>&nbsp;</p> 
+<p><a href="https://in.linkedin.com/in/lakhujanivijay"><img alt="" src="https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/LinkedIn.png?raw=true" /></a><a href="http://www.twitter.com/vijay_lakhujani"><img alt="" src="http://i.imgur.com/tXSoThF.png" /></a><a href="http://www.facebook.com/mylifepages"><img alt="" src="http://i.imgur.com/P3YfQoD.png" /></a><a href="https://github.com/lakhujanivijay"><img alt="" src="http://i.imgur.com/0o48UoR.png" /></a> &nbsp;</p>
+
 
 ---------
 
